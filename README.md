@@ -4,7 +4,6 @@
 
 ```json
 {
-    "Wanna" : "be a team player and grow with team",
     "Interested" : "in cloud engineering"
 }
 ```
