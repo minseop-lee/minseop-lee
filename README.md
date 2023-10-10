@@ -1,17 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20&height=200&text="Hello,&nbsp;world!"&fontColor:white&fontSize=50)
+
 <br/>
 <br/>
 
-```json
-{
-    "Interested" : "in cloud engineering"
-    "Email"      : "lyll4192@gmail.com"
-    "Portfolio"  : "https://minseop-lee.notion.site/4283f5ef87cb415bac7da15fa28792e6?pvs=4"
-}
-```
-<div align=center style="display: flex, height:180px">
 
-### 🛠️ What I used to
+### 🛠️ Dev
 
 <br/>
 
